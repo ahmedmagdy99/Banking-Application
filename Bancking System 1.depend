@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1542483002 source:e:\fci 2nd\3\assignment3\bank_account.cpp
+	<iostream>
+	<string>
+	"Bank_account.h"
+	"Banking_Application.h"
+
+1542478835 e:\fci 2nd\3\assignment3\bank_account.h
+	<iostream>
+	<string>
+
+1542478981 e:\fci 2nd\3\assignment3\banking_application.h
+	<iostream>
+	<string>
+	"Client.h"
+
+1542481883 e:\fci 2nd\3\assignment3\client.h
+	<iostream>
+	<string>
+	"Bank_account.h"
+	"Banking_Application.h"
+
+1542483283 source:e:\fci 2nd\3\assignment3\banking_application.cpp
+	<iostream>
+	"Bank_account.h"
+	"Banking_Application.h"
+	"Client.h"
+
+1542481730 source:e:\fci 2nd\3\assignment3\client.cpp
+	<iostream>
+	<string>
+	"Bank_account.h"
+	"Banking_Application.h"
+	"Client.h"
+
+1542472646 source:e:\fci 2nd\3\assignment3\main.cpp
+	<iostream>
+	"Bank_account.h"
+	"Banking_Application.h"
+	"Client.h"
+
